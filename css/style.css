@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+#banner{background: url( ../IMAGES/Website-Design-Background.png); 
+		min-height: 990px;
+	background-size: cover;
+	
+}
+.banner{
+	background:rgba(0,0,0,0.55);
+min-height: 990px;
+}
+.navbar-default{background:transparent;border: 0;padding-top: 35px;transition: 5s; }
+.navbar-default .navbar-nav >li > a{ color:white;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover { background:rgba(255,21,5,0.55); color:#FFFFFF;}
+.webd img{padding-left: 800px; padding-top: 400px;}
+.btn{width: 300px; height: 10px; background:rgba(255,21,5,0.25) ; border-radius: 10px; color: #FFFFFF;margin-left: 900px; margin-top: 100px; padding-top: 20px;} 
+#services{background: url(../IMAGES/Plain-White-Background-Wallpaper-Hd.jpg); }
+#services h3{
+	
+	position: relative;
+	font-size: 50px;
+}
+#services{ 
+	
+	padding-top:100px ;
+	padding-bottom:80px ;
+	padding-left: 50px ; 
+	
+    
+}
+#services h3:after
+{position: absolute;
+	content: '';
+top: 60px;
+	width: 150px;
+	height: 10px;
+	background:#14BEDE;
+left: 0px;
+}
+.bb{  
+color:rgba(0,0,0,0.88);
+	font-size: 44px;
+}
+#services h2{color:black;}
+#services h2:hover{  color: red; font-size: 40px; }    
+#services p{font-size:30px; } 
+.top-nav-collapse{background:rgba(255,21,5,0.55);} 
+#Myself{background: url( ../IMAGES/IMG20180105173248.jpg);height: 800px; background-position: center;  }
+#Myself p{font-size: 30px; color:palegoldenrod;}
+#Myself h2{font-size: 20px;color: white;}
+#End{background: url( ../IMAGES/pan-across-city-blur-background-moving-bokeh-circles-of-night-traffic_41-ijbv3__F0000.png); width: auto; height: 500px; color: deepskyblue; }
+.nep{font-size: 30px; padding-right: 0px;}
+.col-md-1{padding-left: 0px;}
+
+  
